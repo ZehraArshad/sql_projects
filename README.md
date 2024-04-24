@@ -2,7 +2,7 @@
 
 I followed along Luke Barousse tutorial on how to use SQL for data analysis. You can also utilize these queries to research on job market and highest paying skills here: [Project folder](/project_sql/) ↩️
 
-# Tools I USED
+# Tools I Used
 
 Contrary to the tutorial, I used MySQL instead of Postgre for SQL queries and for managing various files, I utilized SQL Tools 🧑‍💻 extension in VSCode.
 
